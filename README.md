@@ -79,5 +79,5 @@ These are vital for the Networking Specialty but appear less frequently or in le
 ### **4. Diagram: Centralized Inspection**
 
 The concept of "[Centralized Inspection](https://aws.amazon.com/blogs/networking-and-content-delivery/centralized-inspection-architecture-with-aws-gateway-load-balancer-and-aws-transit-gateway/)" using Transit Gateway is a top candidate for exam questions in both certifications.
-
+[Figure1](./GWLB_TGW_FIGURE2.jpg)
 ---
